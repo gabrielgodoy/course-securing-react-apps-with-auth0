@@ -1,3 +1,5 @@
+Course: https://app.pluralsight.com/library/courses/react-auth0-authentication-security/table-of-contents
+
 ### So what do these packages do?
 
 |   Package             | Description                 |
